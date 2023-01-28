@@ -22,4 +22,14 @@ for line in range(1,21):
     print(line)
     print(data_list[line])
 
-# tarefa 2
+
+input("Aperte Enter para continuar...")
+# TAREFA 2
+# TODO: Imprima o `gênero` das primeiras 20 linhas
+
+
+print("\nTAREFA 2: Imprimindo o gênero das primeiras 20 amostras")
+for line in range(1,21):
+    print(data_list[line][7])
+
+#tarefa 3
